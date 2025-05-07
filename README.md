@@ -1,5 +1,5 @@
 💧 Real-Time Water Caustics Renderer
-<!-- Replace with actual path to your GIF -->
+![Caustics Demo](WaterCaustics.gif)
 
 A real-time graphics project written in C++ and OpenGL (GLSL) that simulates dynamic water caustics — the shimmering light patterns cast by water — using GPU-based techniques. Built as a showcase for physically inspired rendering in interactive environments.
 
